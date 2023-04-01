@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "login",
+    "line": 1,
+    "id": "login",
+    "tags": [],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "login;valid-login",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Valid login",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Iam in home Page",
+            "result": {
+              "status": "undefined",
+              "duration": 57000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
